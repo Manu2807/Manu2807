@@ -49,7 +49,7 @@
 
 <div align="left" style="width:100%">
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=ayush-code-drops&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Manu2807&theme=juicyfresh&no-bg=true" />
 </div>
 
 <h1 align="center">STATS</h1>
