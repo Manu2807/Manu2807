@@ -21,7 +21,7 @@
 
 <div align="center">
    <p> 💬 Ask me about React, JavaScript, Redux , DS-Algo</p>
-   <p> 📫 How to reach me mangalmanu28@gmail.com</p>
+   <p> 📫 How to reach me mangalmanu28@gmail./com</p>
   <p>🥅 2022 Goals : Learning new things and contribute more</p>
 </div>
 
@@ -31,7 +31,7 @@
 
 ## 🔗 Connect with me:
 <span align="left">
-  <a href="https://www.linkedin.com/in/ayush-agrawal-396353159/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cybervirus997"/></a>
+  <a href="https://www.linkedin.com/search/results/all/?keywords=manu%20mangal&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=384bb3e4-2558-46b7-a7ea-1cb93a483680&sid=Yrb/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="cybervirus997"/></a>
       <a href="mailto:mangalmanu28@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
       </a>
