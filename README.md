@@ -64,7 +64,7 @@
 
 <div>
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Manu2807&show_icons=true&theme=dark" />
-  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash2377&layout=compact&theme=midnight-purple" />
+  <img width="49%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manu2807&layout=compact&theme=midnight-purple" />
   
 </div>
  <br />
